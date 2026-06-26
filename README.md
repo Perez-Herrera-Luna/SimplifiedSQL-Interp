@@ -1,7 +1,7 @@
 # Simplified SQL Interpreter
 This project, written for a databse class, is a C++ interpreter for a simplified version of SQL supporting only a subset of available commands. Table creation, deletion, insertion, selection, and aleration are supported.
 
-[Insert image]
+<img width="544" height="483" alt="SQL Interpreter Demo Cropped" src="https://github.com/user-attachments/assets/c7c9249d-0d97-4b82-ace1-0c0c45eef564" />
 
 ## Usage
 Execute `./driver` with no arguments to enter an interactive loop where you may enter commands one at a time.
